@@ -1,9 +1,13 @@
-# TEAM NOTES
+# Team Notes
 
+## Purpose
 
-### Project Name: Team Notes
-### Project Objective: Recording project notes
-### Project Status: In development...
+Note on Project Objectives.
 
+## Project Status
 
-This project is currently for project notes, and we might add new items to it later!
+Project under construction.
+
+## Contribution
+
+For now, with no one.
