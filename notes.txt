@@ -2,3 +2,9 @@ Team Notes
 
 Project: Internal Documentation
 Status: Active
+
+Project Goals
+
+- Keep project notes organized
+- Make important information easy to find
+- Keep documentation simple
